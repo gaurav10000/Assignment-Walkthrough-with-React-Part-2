@@ -84,14 +84,18 @@ input {
     text-align: center;
 }
 
-#or-wrapper {
+#or {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     /* align-items: center; */
 }
-#or-wrapper span {
+#or span {
     width: 80%;
     height: 0.1rem;
     background-color: #000000;
+}
+
+#log-with-fb {
+    cursor: pointer;
 }

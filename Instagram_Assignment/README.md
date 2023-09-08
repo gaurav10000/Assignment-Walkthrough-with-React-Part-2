@@ -1,8 +1,36 @@
-# React + Vite
+# Instagram Login Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Instagram login page clone built with Vite.
 
-Currently, two official plugins are available:
+## Introduction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a small clone of the Instagram login page, created using the Vite build tool. It serves as a basic example of how to recreate a popular web interface and demonstrates the use of Vite for web development.
+
+## Usage
+
+To view and run the Instagram Login Page clone, follow these steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/yourusername/instagram-login-page.git
+2. **Navigate into the project directory**:
+
+   ```bash
+   cd instagram-login-page
+   ```
+3. **Install the dependencies**:
+
+   ```bash
+    npm install
+    ```
+4. **Run the development server**:
+
+   ```bash
+   npm run dev
+   ```
+   5. **Open the project in your browser**:
+
+   ```bash
+    http://localhost:5273 or see the terminal for the port number
+    ```

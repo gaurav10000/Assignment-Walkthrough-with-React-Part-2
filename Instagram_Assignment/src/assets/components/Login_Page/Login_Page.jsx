@@ -28,7 +28,7 @@ function Login_Page() {
     </div>
     <div className="signup-login">
       {/* using conditional rendering to change the text of the bottom line */}
-    <span id='bottom-line'> {login ? "Don't have account?" : "Have an account"} 
+    <span id='bottom-line'> {login ? "Don't have account? " : "Have an account! "} 
     {/* using useState to set the state of login to know whether to show login page of signup page */}
     <span className='login-signup' onClick={() => setLogin(!login)}>
       {login ? "Sign up" : "Login"}</span></span>
